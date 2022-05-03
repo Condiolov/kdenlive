@@ -1,0 +1,9 @@
+<effectgroup id="Tx - Release" parentIn="0">
+ <effect id="qtblend">
+  <property name="rotate_center">1</property>
+  <property name="distort">0</property>
+  <property name="compositing">0</property>
+  <property name="rotation">0=0;30=0;149|=0</property>
+  <property name="rect">0=-8640 -4860 19200 10800 0.000000;30=0 0 1920 1080 1.000000;149|=-96 -54 2112 1188 1.000000</property>
+ </effect>
+</effectgroup>
