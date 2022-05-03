@@ -1,0 +1,28 @@
+<effectgroup id="Tx - Futuristic Bustling" parentIn="0">
+ <effect id="frei0r.glitch0r">
+  <property name="version">0.1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="3">0=0;9=0;87=0;90=1</property>
+  <property name="2">0=0.009;9=0.009;87=0.009;90=0</property>
+  <property name="1">0=0.012;9=0.012;87=0.012;90=0.019</property>
+  <property name="0">0=0.824;9=0;87=0;90=0.824</property>
+ </effect>
+ <effect id="qtblend">
+  <property name="rotate_center">1</property>
+  <property name="kdenlive:collapsed">1</property>
+  <property name="distort">0</property>
+  <property name="compositing">0</property>
+  <property name="rotation">0=0;9=0;90=0;137=0;149=0</property>
+  <property name="rect">0=-384 -216 2688 1512 1.000000;9=192 108 1536 864 1.000000;90=0 0 1920 1080 1.000000;137=0 0 1920 1080 1.000000;149=-192 -108 2304 1296 1.000000</property>
+ </effect>
+ <effect id="frei0r.nervous">
+  <property name="version">3.1</property>
+  <property name="kdenlive:collapsed">0</property>
+ </effect>
+ <effect id="frei0r.vertigo">
+  <property name="kdenlive:collapsed">0</property>
+  <property name="Zoomrate">0=0.194</property>
+  <property name="version">1.2</property>
+  <property name="PhaseIncrement">0=0.32</property>
+ </effect>
+</effectgroup>
