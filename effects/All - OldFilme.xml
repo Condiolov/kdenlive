@@ -1,0 +1,23 @@
+<effectgroup id="All - OldFilme" parentIn="0">
+ <effect id="frei0r.vignette">
+  <property name="soft">0=0.586</property>
+  <property name="clearCenter">0=0.135</property>
+  <property name="aspect">0=0.154</property>
+ </effect>
+ <effect id="lines">
+  <property name="lighter">0=40</property>
+  <property name="darker">0=40</property>
+  <property name="num">0=18</property>
+  <property name="line_width">0=2</property>
+ </effect>
+ <effect id="oldfilm">
+  <property name="unevendevelop_duration">0=70</property>
+  <property name="unevendevelop_down">0=20</property>
+  <property name="unevendevelop_up">0=60</property>
+  <property name="brightnessdelta_every">0=70</property>
+  <property name="brightnessdelta_down">0=30</property>
+  <property name="brightnessdelta_up">0=20</property>
+  <property name="every">0=20</property>
+  <property name="delta">0=14</property>
+ </effect>
+</effectgroup>
