@@ -1,0 +1,41 @@
+<kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="150">
+ <item type="QGraphicsTextItem" z-index="0">
+  <position x="751" y="424">
+   <transform zoom="190">1.9,0,0,0,1.9,0,0,0,1</transform>
+  </position>
+  <content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="122" font="Fredoka One" letter-spacing="0" font-pixel-size="100" font-italic="0" typewriter="0;2;1;0;0" alignment="1" font-weight="25" box-width="219.969" font-color="255,255,255,255">Text</content>
+ </item>
+ <item type="QGraphicsRectItem" z-index="-1">
+  <position x="721" y="408">
+   <transform zoom="100">1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content brushcolor="255,143,16,0" pencolor="255,85,0,255" penwidth="30" rect="0,0,477,263"/>
+ </item>
+ <item type="QGraphicsRectItem" z-index="-2">
+  <position x="662" y="299">
+   <transform zoom="100">1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content brushcolor="255,143,16,0" pencolor="255,0,0,255" penwidth="35" rect="0,0,595,481"/>
+ </item>
+ <item type="QGraphicsRectItem" z-index="-3">
+  <position x="594" y="174">
+   <transform zoom="100">1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content brushcolor="255,143,16,0" pencolor="0,255,0,255" penwidth="35" rect="0,0,730,730"/>
+ </item>
+ <item type="QGraphicsRectItem" z-index="-4">
+  <position x="524" y="104">
+   <transform zoom="100">1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content brushcolor="255,143,16,0" pencolor="255,235,14,255" penwidth="47" rect="0,0,870,870"/>
+ </item>
+ <item type="QGraphicsRectItem" z-index="-5">
+  <position x="459" y="39">
+   <transform zoom="100">1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content brushcolor="255,143,16,0" pencolor="0,85,255,255" penwidth="35" rect="0,0,1000,1000"/>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="0,0,0,0"/>
+</kdenlivetitle>
